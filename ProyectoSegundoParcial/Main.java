@@ -53,7 +53,7 @@ public class Main {
                     mostrarHistorial();
                     break;
                 case 13:
-                    System.out.println("Saliendo del Sistema de Gestión de Cursos UTC 2.0...");
+                    System.out.println("Saliendo del Sistema de Gestion de Cursos UTC 2.0...");
                     break;
                 default:
                     System.out.println("Opción no válida.");
@@ -63,7 +63,7 @@ public class Main {
     }
 
     private static void mostrarMenu() {
-        System.out.println("\n===== SISTEMA DE GESTIÓN DE CURSOS UTC 2.0 =====");
+        System.out.println("\n===== SISTEMA DE GESTION DE CURSOS UTC 2.0 =====");
         System.out.println("1. Agregar curso");
         System.out.println("2. Mostrar cursos");
         System.out.println("3. Buscar curso por clave");
